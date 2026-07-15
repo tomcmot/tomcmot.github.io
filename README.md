@@ -1,4 +1,3 @@
-## Character Sheets
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/water.min.css">
 
-* [Ember Trails](./character_sheets/ember_trails.html)
-* [Starry Nights](./character_sheets/starry_nights.html)
+Under construction.
