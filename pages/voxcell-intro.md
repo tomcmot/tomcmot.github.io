@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/water.min.css">
-
 # Tutorial Intro
 
 This is a series to make a very simple voxel game engine in Rust.
