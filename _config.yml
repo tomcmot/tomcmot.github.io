@@ -1,5 +1,6 @@
-name: ""
+name: my pages
 title: null
+theme: null
 highlighter: none
 kramdown:
   syntax_highlighter_opts:
