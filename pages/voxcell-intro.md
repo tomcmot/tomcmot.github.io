@@ -1,3 +1,8 @@
+---
+layout: default
+title: Voxcell - a voxel engine
+---
+
 # Voxcell - a voxel engine
 
 This is a series, written as tutorials, as I make a very simple voxel engine. 
@@ -105,5 +110,3 @@ While the low level bindings do exist, I found it took more setup than it was wo
 The first proper article will go on to implement chunks, turning this from a cube into something that can be described as voxels.
 I wanted to keep this one short as an introduction to what I'm doing and provide some references for what background you should have to follow along.
 
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/water.min.css">
