@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Voxcell - a voxel engine
 ---
 
 # Voxcell - a voxel engine
